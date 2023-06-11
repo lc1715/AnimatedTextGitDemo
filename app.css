@@ -1,3 +1,9 @@
+
+body {
+    background-color: black;
+}
+
+
 h1 {
     display: flex;
     justify-content: center;
@@ -6,11 +12,6 @@ h1 {
     font-family: Montserrat;
     font-size: 15rem;
     transition: color 500ms;
-}
-
-h1 {
-    font-size: 15rem;
-    font-family: Montserrat ;
 }
 
 .letter{
