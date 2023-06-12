@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(33, 4, 56);
+    background-color: teal;
 }
 
 
@@ -10,7 +10,7 @@ h1 {
     align-items: center;
     height: 100vh;
     font-family: Montserrat;
-    font-size: 15rem;
+    font-size: 16rem;
     transition: color 500ms;
 }
 
